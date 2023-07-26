@@ -1,5 +1,5 @@
 ### Yoo, I'm Hjie 👋
-- ⚡ 语言：Python
+- ⚡ 习惯用的编程语言：Python
 - 📚 目前就读：[ZUEL](http://english.zuel.edu.cn/)
 - 🎊 Meachine learning / Deep Learning 欢迎一起交流
 - ✍️ [Blogger](https://hjiezero.github.io/)
