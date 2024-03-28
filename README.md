@@ -10,7 +10,7 @@
 <!--     <img src="https://komarev.com/ghpvc/?username=Lorin-github&label=Views&color=0e75b6&style=flat" alt="访问量统计" /> -->
   </div>
 <div> 
-<img align="right" height="137px" src="https://github-readme-stats.vercel.app/api?username=ChaozhongLiu&hide_title=true&hide_border=true&show_icons=true&line_height=25&text_color=000&bg_color=e9f7e9&icon_color=000&theme=graywhite" />
+<img align="right" height="137px" src="https://github-readme-stats.vercel.app/api?username=shangxiaaabb&hide_title=true&hide_border=true&show_icons=true&line_height=25&text_color=000&bg_color=e9f7e9&icon_color=000&theme=graywhite" />
 <div style="flex: 1;">
 
 - 📚 硕士在读：[ZUEL](http://english.zuel.edu.cn/)
