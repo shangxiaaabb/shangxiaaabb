@@ -17,6 +17,5 @@
 - 🎊 Meachine learning / Deep Learning 爱好炼丹/大力飞砖！！！
 - 📫 hjie20011001@gmail.com  
 
-
-
+![亮色](https://github.com/shangxiaaabb/shangxiaaabb/blob/output/github-contribution-grid-snake.svg)
 </div>
