@@ -25,7 +25,9 @@
 <div align="center"><img src="https://github.com/shangxiaaabb/shangxiaaabb/blob/output/github-contribution-grid-snake.svg" style="zoom:100%;"/></div>
 
 <div align="center">
-<a href="https://git.io/streak-stats"><img align="center" src="https://streak-stats.demolab.com?user=shangxiaaabb&card_width=490" alt="GitHub Streak" /></a>
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shangxiaaabb&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
+
 <a><img align="center" src="https://count.getloli.com/get/@shangxiaaabb?theme=gelbooru-h" alt=":name" /></a>
 <p> 我的技能以及常用的工具 </p>
 <a><img src=https://skillicons.dev/icons?i=python,vscode,git,linux,pytorch,raspberrypi&theme=light> </a>
