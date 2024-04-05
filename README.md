@@ -30,7 +30,7 @@
 
 <a><img align="center" src="https://count.getloli.com/get/@shangxiaaabb?theme=gelbooru-h" alt=":name" /></a>
 <p> 我的技能以及常用的工具 </p>
-<a><img src=https://skillicons.dev/icons?i=python,vscode,git,linux,pytorch,raspberrypi&theme=light> </a>
+<a><img src=https://skillicons.dev/icons?i=python,vscode,git,linux,pytorch,raspberrypi,ubuntu&theme=light> </a>
 </div>
 
 </div>
