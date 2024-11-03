@@ -17,8 +17,6 @@
 <div style="flex: 1;">
 
 <body style="line-height: 1.5;">
-    <p>📚 硕士在读：<a href="http://english.zuel.edu.cn/">ZUEL</a></p>
-    <p>🎊 Meachine learning / Deep Learning 爱好炼丹/大力飞砖！！！</p>
     <p>📫 hjie20011001@gmail.com</p>
 </body>
 
