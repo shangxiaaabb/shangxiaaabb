@@ -1,4 +1,4 @@
-### Yoo, I'm Hjie 👋
+### Yoo, I'm HuangJie 👋
 <!-- profile logo 个人资料徽标 -->
 <div align="center">
     <a href="https://www.cnblogs.com/Big-Yellow"><img src="https://img.shields.io/badge/cnblog-cnblog博客-blue" /></a>&emsp;
